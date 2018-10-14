@@ -1,0 +1,17 @@
+{
+  "name": "Vue-Bulma-Graphql",
+  "type": "static",
+  "static": {
+    "public": "dist",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "alias": "Vue-Bulma-Graphql",
+  "files": [
+    "dist"
+  ]
+}
